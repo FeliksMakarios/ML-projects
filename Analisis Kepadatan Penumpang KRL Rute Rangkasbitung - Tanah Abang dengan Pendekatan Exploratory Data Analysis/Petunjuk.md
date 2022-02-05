@@ -1,4 +1,5 @@
-Dataset bisa diunduh pada link berikut :
-https://drive.google.com/drive/folders/1gOUqaOFf_3oXRR5fUNWzF-dDJ0vWnJdZ?usp=sharing
+Jurnal ilmiah:
+https://journal.maranatha.edu/index.php/jutisi/article/view/3700
 
-Copas folder dataset langsung ke dalam folder ini.
+Dataset:
+https://drive.google.com/drive/folders/1gOUqaOFf_3oXRR5fUNWzF-dDJ0vWnJdZ?usp=sharing
