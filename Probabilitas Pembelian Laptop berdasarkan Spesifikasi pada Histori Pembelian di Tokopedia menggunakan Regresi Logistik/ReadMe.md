@@ -1,4 +1,4 @@
-# Integrated Final Project #2
+# Integrated Final Project - Semester #2
 This is the result of an Integrated Final Project from two courses: Data Analytics, and Artificial Intelligence. This project is done in groups.
 
 ## Objectives
@@ -24,7 +24,7 @@ Hasil eksperimen yang dilakukan dalam penelitian ini menunjukkan bahwa *harga* m
 Dalam prosesnya, ada banyak data yang dibuang karena dalam penulisan namanya tidak mencantumkan spesifikasi yang digunakan dalam penguraian untuk membuat fitur yang baru. Sehingga disarankan Tokopedia dapat membuat aturan penulisan yang seragam untuk penjualan laptop. Didalamnya terdapat merk, tipe, ukuran memori, ukuran disk, dan prosesor. Hal ini akan sangat membantu dalam mengeksplorasi dan menganalisis histori pembelian laptop dari setiap toko/merchant.
 
 ## Published Paper:
-This research has not been published yet because it coincides with the design of our thesis proposal.
+This research has not been published yet because it coincides with the design of our thesis proposal. We hope to have Kage Bunshin no Jutsu 🥷 during the process of this working on this project 😫
 
 ## Dataset:
 https://www.kaggle.com/artakusuma/laptopecomercee
