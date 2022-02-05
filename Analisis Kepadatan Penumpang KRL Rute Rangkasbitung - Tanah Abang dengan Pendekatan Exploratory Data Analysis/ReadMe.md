@@ -1,5 +1,5 @@
 # Integrated Final Project
-This is the result of an Integrated Final Project from four courses: Big Data Management, Open Source, Semantic Web, and Software Engineering
+This is the result of an Integrated Final Project from four courses: Big Data Management, Open Source, Semantic Web, and Software Engineering. This project is done in groups.
 
 ## Published Paper
 https://journal.maranatha.edu/index.php/jutisi/article/view/3700
