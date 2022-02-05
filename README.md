@@ -1,2 +1,5 @@
-# tugas_s2ilkom_mcu
-Assignments in Master Program at Maranatha Christian University
+# Assignment Project Collection
+
+This repository contains several individual and joint projects when I took my Masters in Computer Science at Maranatha Christian University.
+
+### Cheers ! 🥂
