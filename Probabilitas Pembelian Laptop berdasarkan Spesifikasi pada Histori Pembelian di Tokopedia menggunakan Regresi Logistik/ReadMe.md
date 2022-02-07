@@ -1,5 +1,5 @@
 # Integrated Final Project - Semester #2
-This is the result of an Integrated Final Project from two courses: Data Analytics, and Artificial Intelligence. This project is done in groups.
+This is the result of an Integrated Final Project from two courses: Data Analytics, and Artificial Intelligence. This project is done in groups. Mentored by: [Dr. Hapnes Toba, M. Sc., IPM](https://it.maranatha.edu/resume/dr-hapnes-toba-m-sc/)
 
 ## Objectives
 History Data pembelian dan data customer yang ada didalam database Tokopedia tentunya sangat banyak, ada banyak cara untuk mengolah data yang ada pada database Tokopedia. Spesifiksasi laptop akan digunakan sebagai fitur-fitur. Spesifikasi ini seperti merk, ukuran memori, prosesor, ukuran disk, harga, dan jumlah terjualnya. Regresi logistik akan digunakan untuk melihat besarnya nilai _r<sup>2</sup>_ dari setiap fitur. Fitur dengan nilai _r<sup>2</sup>_ tertinggi dianggap memiliki kemampuan yang tinggi dalam memberikan rekomendasi pembelian laptop. Sebagai hipotesis awal, fitur merk diasumsikan memiliki nilai _r<sup>2</sup>_ tertinggi. Sebuah pencarian laptop berdasarkan merk tertentu dianggap akan menampilkan rekomendasi laptop yang paling tepat dengan merujuk ke histori pembelian seluruh pengguna.
