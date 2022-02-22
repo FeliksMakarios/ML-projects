@@ -6,7 +6,6 @@ The existence of the Kereta Rel Listrik Commuter Line as the backbone of transpo
 
 ## Publication
 * Published Paper: [Jurnal Teknik Informatika dan Sistem Informasi (JuTISI) (August 18, 2021)](https://journal.maranatha.edu/index.php/jutisi/article/view/3700)
-
 * Presented: Research Dissemination Results held by Informatics Study Program of the Parahyangan University (September 1-2, 2021).
 
 ## Dataset
